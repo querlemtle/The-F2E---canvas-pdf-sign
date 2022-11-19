@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/The-F2E---canvas-pdf-sign/static/css/main.7f4121ad.css",
+    "main.js": "/The-F2E---canvas-pdf-sign/static/js/main.16c3dc75.js",
+    "static/media/sample-pdf.pdf": "/The-F2E---canvas-pdf-sign/static/media/sample-pdf.48f42e4417ac52bd069d.pdf",
+    "static/media/logo.svg": "/The-F2E---canvas-pdf-sign/static/media/logo.7de53bb9526fd3f02a9e7e5a2297b1bf.svg",
+    "static/media/icon-sign.svg": "/The-F2E---canvas-pdf-sign/static/media/icon-sign.4e763c2448b54bb389018af45675a6ec.svg",
+    "static/media/icon-date.svg": "/The-F2E---canvas-pdf-sign/static/media/icon-date.43b8fcc2a5b2d1348acdb5f5715fb5c3.svg",
+    "static/media/icon-check.svg": "/The-F2E---canvas-pdf-sign/static/media/icon-check.2c54c31e56735a2f105b77ba786206ee.svg",
+    "static/media/icon-seal.svg": "/The-F2E---canvas-pdf-sign/static/media/icon-seal.2491b2f799b07877100d6bcdc8c0d87f.svg",
+    "static/media/icon-back-1.svg": "/The-F2E---canvas-pdf-sign/static/media/icon-back-1.dc7fcca97c6369df332e283d444b572e.svg",
+    "static/media/icon-text.svg": "/The-F2E---canvas-pdf-sign/static/media/icon-text.ec5edacb6da680c34654e57bc2cc367c.svg",
+    "index.html": "/The-F2E---canvas-pdf-sign/index.html",
+    "main.7f4121ad.css.map": "/The-F2E---canvas-pdf-sign/static/css/main.7f4121ad.css.map",
+    "main.16c3dc75.js.map": "/The-F2E---canvas-pdf-sign/static/js/main.16c3dc75.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f4121ad.css",
+    "static/js/main.16c3dc75.js"
+  ]
+}
