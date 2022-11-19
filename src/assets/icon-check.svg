@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_22" data-name="Rectangle 22" width="30" height="30" transform="translate(1511 461)" fill="#fff" stroke="#414143" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="icon-check" transform="translate(-1511 -461)" clip-path="url(#clip-path)">
+    <g id="checked" transform="translate(1511 461)">
+      <g id="Group_12" data-name="Group 12">
+        <g id="Group_11" data-name="Group 11">
+          <path id="Path_13" data-name="Path 13" d="M29.142,4.1a1.13,1.13,0,0,0-1.6,0L13.979,17.628,9.086,12.312a1.131,1.131,0,1,0-1.664,1.532l5.691,6.181a1.129,1.129,0,0,0,.808.364h.024a1.132,1.132,0,0,0,.8-.33L29.14,5.7A1.13,1.13,0,0,0,29.142,4.1Z"/>
+        </g>
+      </g>
+      <g id="Group_14" data-name="Group 14">
+        <g id="Group_13" data-name="Group 13">
+          <path id="Path_14" data-name="Path 14" d="M28.869,13.869A1.131,1.131,0,0,0,27.739,15,12.739,12.739,0,1,1,15,2.261,1.131,1.131,0,1,0,15,0,15,15,0,1,0,30,15,1.131,1.131,0,0,0,28.869,13.869Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_61" data-name="Rectangle 61" width="20" height="20" transform="translate(1467 320)" fill="#b9b9b9" stroke="#b9b9b9" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_23" data-name="Rectangle 23" width="20" height="20" transform="translate(1062.667 20)" fill="#b9b9b9" stroke="#707070" stroke-width="0.667"/>
+    </clipPath>
+  </defs>
+  <g id="icon-back-1-gray.svg" transform="translate(-1467 -320)" clip-path="url(#clip-path)">
+    <g id="icon-back-1" transform="translate(404.333 300)" clip-path="url(#clip-path-2)">
+      <g id="undo" transform="translate(1062.667 20)">
+        <g id="Group_16" data-name="Group 16">
+          <g id="Group_15" data-name="Group 15">
+            <path id="Path_15" data-name="Path 15" d="M5.575,11.451,1.9,7.251l3.672-4.2A.82.82,0,0,0,4.343,1.969L.2,6.71a.817.817,0,0,0,0,1.075l4.143,4.741a.818.818,0,1,0,1.231-1.076Z" fill="#b9b9b9"/>
+          </g>
+        </g>
+        <g id="Group_18" data-name="Group 18">
+          <g id="Group_17" data-name="Group 17">
+            <path id="Path_16" data-name="Path 16" d="M14.06,6.431H.817a.817.817,0,1,0,0,1.635H14.06a4.305,4.305,0,1,1,0,8.61H1.907a.817.817,0,0,0,0,1.635H14.06a5.94,5.94,0,0,0,0-11.88Z" fill="#b9b9b9"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

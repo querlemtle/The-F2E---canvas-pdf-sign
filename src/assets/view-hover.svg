@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="26" height="26" viewBox="0 0 26 26">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_40" data-name="Rectangle 40" width="26" height="26" transform="translate(0.3 0)" fill="#5d95ea" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="view-hover" transform="translate(-0.3 0)" clip-path="url(#clip-path)">
+    <g id="menu" transform="translate(-0.384 -0.384)">
+      <g id="Group_33" data-name="Group 33">
+        <g id="Group_32" data-name="Group 32">
+          <path id="Path_27" data-name="Path 27" d="M9.243,0H3.1A3.1,3.1,0,0,0,0,3.1V9.243a3.1,3.1,0,0,0,3.1,3.1H9.243a3.1,3.1,0,0,0,3.1-3.1V3.1A3.1,3.1,0,0,0,9.243,0Zm1,9.243a1,1,0,0,1-1,1H3.1a1,1,0,0,1-1-1V3.1a1,1,0,0,1,1-1H9.243a1,1,0,0,1,1,1Z" fill="#5d95ea"/>
+        </g>
+      </g>
+      <g id="Group_35" data-name="Group 35" transform="translate(14.429)">
+        <g id="Group_34" data-name="Group 34">
+          <path id="Path_28" data-name="Path 28" d="M25.912,0H19.848a3.14,3.14,0,0,0-3.137,3.137V9.2a3.14,3.14,0,0,0,3.137,3.137h6.065A3.14,3.14,0,0,0,29.049,9.2V3.137A3.14,3.14,0,0,0,25.912,0Zm1.046,9.2a1.047,1.047,0,0,1-1.046,1.046H19.848A1.047,1.047,0,0,1,18.8,9.2V3.137a1.047,1.047,0,0,1,1.046-1.046h6.065a1.047,1.047,0,0,1,1.046,1.046Z" transform="translate(-16.711)" fill="#5d95ea"/>
+        </g>
+      </g>
+      <g id="Group_37" data-name="Group 37" transform="translate(0 14.429)">
+        <g id="Group_36" data-name="Group 36">
+          <path id="Path_29" data-name="Path 29" d="M9.243,16.711H3.1a3.1,3.1,0,0,0-3.1,3.1v6.147a3.1,3.1,0,0,0,3.1,3.1H9.243a3.1,3.1,0,0,0,3.1-3.1V19.806A3.1,3.1,0,0,0,9.243,16.711Zm1,9.243a1,1,0,0,1-1,1H3.1a1,1,0,0,1-1-1V19.806a1,1,0,0,1,1-1H9.243a1,1,0,0,1,1,1Z" transform="translate(0 -16.711)" fill="#5d95ea"/>
+        </g>
+      </g>
+      <g id="Group_39" data-name="Group 39" transform="translate(14.429 14.429)">
+        <g id="Group_38" data-name="Group 38">
+          <path id="Path_30" data-name="Path 30" d="M25.912,16.711H19.848a3.14,3.14,0,0,0-3.137,3.137v6.065a3.14,3.14,0,0,0,3.137,3.137h6.065a3.14,3.14,0,0,0,3.137-3.137V19.848A3.14,3.14,0,0,0,25.912,16.711Zm1.046,9.2a1.047,1.047,0,0,1-1.046,1.046H19.848A1.047,1.047,0,0,1,18.8,25.912V19.848A1.047,1.047,0,0,1,19.848,18.8h6.065a1.047,1.047,0,0,1,1.046,1.046Z" transform="translate(-16.711 -16.711)" fill="#5d95ea"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

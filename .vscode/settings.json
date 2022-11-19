@@ -1,0 +1,17 @@
+{
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "[javascript]": {
+    "editor.formatOnSave": false
+  },
+  "eslint.codeAction.showDocumentation": {
+    "enable": true
+  },
+  "eslint.alwaysShowStatus": true,
+  "css.lint.unknownAtRules": "ignore",
+  // disable TypeScript extension from throwing errors, ref: https://stackoverflow.com/questions/50823743/disable-tslint-in-vscode
+  "javascript.validate.enable": false,
+  "prettier.useTabs": true
+}
